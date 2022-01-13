@@ -1,0 +1,15 @@
+{
+  "name": "ElventyPractice",
+  "version": "1.0.0",
+  "description": "ElventyPractice",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "author": "Zachary Przybilski",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0-canary.50",
+    "@netlify/functions": "^0.10.0"
+  }
+}
